@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+A list of all my GitHub follows (but not my followers) This project is currently semi-maintained, but will be a fully-automated project once automation is ready.
